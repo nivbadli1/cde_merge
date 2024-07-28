@@ -1,10 +1,7 @@
+/* Add to style.css: margin: 20px; */
 body {
-    h1 {
-      color: blue;
-    }
-  
-    p {
-      font-size: 20px;  
-    }
-    background-color: yellow;
+  margin: 20px;
+  h1 {
+  color: blue;
+  }
   }
